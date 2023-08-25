@@ -40,6 +40,12 @@
 			<version>2.0.143</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>com.xkcoding.json</groupId>
+			<artifactId>simple-json</artifactId>
+			<version>0.0.3</version>
+			<scope>test</scope>
+		</dependency>
 	</dependencies>
 	<build>
 		<plugins>
